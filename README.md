@@ -1,8 +1,6 @@
-# Getting Started with Create React App
-
+# Submission Dicoding
 Preview Project Demo: https://notebookapps.netlify.app/
 
-Submission Dicoding
 Buatlah aplikasi web menggunakan React yang dapat menambahkan dan menghapus catatan. Agar lebih jelasnya, berikut 3 kriteria utama pada “Aplikasi Catatan Pribadi” yang harus Anda buat.
 
 Kriteria Utama 1: Mampu Menampilkan Daftar Catatan
@@ -38,6 +36,8 @@ Aplikasi harus menyediakan tombol arsipkan/pindahkan untuk mengarsipkan atau mem
 Daftar catatan yang diarsip harus ditampilkan pada tempat terpisah dari catatan yang tidak diarsip.
 
 # Semua Kriteria Utama & Opsional di selesaikan dengan baik dan mendapatkan 5 Star
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
